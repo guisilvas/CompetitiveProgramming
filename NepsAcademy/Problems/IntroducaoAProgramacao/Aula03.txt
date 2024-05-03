@@ -1,0 +1,35 @@
+Nessa aula a gente vai aprender o que é um Software. Vamos entender qual seu:
+
+Conceito
+Importância
+Tipos
+Um Software é um programa. Um programa é constituído por uma sequência de comando que especificam quais ações devem ser realizadas pelo computador. Exemplos de programas incluem Whatsapp, Instagram, PowerPoint, etc.
+
+O software é uma camada que existe entre o usuário do sistema e o hardware, normalmente o usuário se comunica com o software que então passa essas informações de forma que o hardware entenda.
+
+
+Figura 1
+
+Softwares podem ser classificados de várias formas, uma classificação comum seria separá-los de acordo com sua finalidade, por exemplo:
+
+Software de Sistema; são softwares utilizados pelo sistema para auxiliar no gerenciamento do operacional, por exemplo: um verificador de disco que verifica o estado do disco do computador (HDs e SSDs).
+Software Aplicativo: são softwares utilizados pelo usuário para realizar tarefas específicas. Exemplo: editores de texto.
+Softwares podem ser distribuídos de várias maneiras, eles podem ser:
+
+Freeware: completamente gratuito
+Freemium (Shareware): gratuito, porém com limitações.
+Adware: gratuito, porém com propagandas.
+Open source: possuem código-fonte disponível para todos, ou seja, todo o código que utilizado para gerar aquele programa também é disponibilizado.
+
+---------------------------------------------------------
+
+Software: é um programa(sequência de comandos a serem tomados pelo pc). É uma camada entre o usuário e o hardware.
+
+- Software de sistema: auxilia no gerenciamento do sistema operacional.  Ex: verificador de disco.
+- Software aplicativo: realizar tarefas específicas. Ex: editor de texto.
+
+Tipos de licenças:
+- Freeware: integralmente gratuito.
+- Freemium(Shareware): Gratuito, mas com limitações.
+- Adware: Gratuito, mas com propagandas.
+- Open Source: Código fonte disponível.

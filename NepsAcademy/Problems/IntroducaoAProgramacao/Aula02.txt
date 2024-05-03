@@ -1,0 +1,81 @@
+Nós vamos aprender:
+
+Arquitetura de Von Neumann
+Placa mãe
+Tipos de memórias
+Dispositivos de entrada e saída
+Arquitetura de Von Neumann
+O modelo proposto por Von Neumann propõe separar os componentes de um sistema computacional nas seguinte partes:
+
+Unidade Central de Processamento (CPU)
+Unidade Lógica Aritmética
+Unidade de Controle
+Memória
+A relação entre esses componentes pode ser vista na imagem abaixo:
+
+
+Figura 1
+
+A CPU é o cérebro do computador. É nela que acontece o processamento dos dados, ou seja, é nela que o computador vai executar as instruções de um programa. A CPU é composta por uma Unidade de Controle (CU) e uma Unidade Lógica e Aritmética (ULA) e está sempre em comunicação com a memória do computador.
+
+A Unidade Lógica e Aritmética é responsável por realizar operações matemáticas e lógicas. Por exemplo:
+
+Somar, dividir, multiplicar e subtrair números
+Verificar qual de dois números é menor ou maior
+Verificar se um número é positivo ou negativo
+A Unidade de Controle é capaz de acessar, decodificar e executar as instruções de um programa armazenado na memória, ou seja, ela vai definir uma ordem de execução e executar as operações dos nossos programas e de todo o sistema.
+
+Memória é todo dispositivo que permite ao computador armazenar dados e programas. Por exemplo:
+
+HDs
+SSDs
+CDs
+Pen Drives
+Embora a arquitetura de Von Neumann tenha sido a base da arquitetura moderna, ela não representa fielmente a arquitetura utilizada pelos sistemas atuais.
+
+Placa mãe e tipos de memória
+A placa mãe é um componente responsável por interligar todos os demais componentes.
+
+Os principais componentes do computador são:
+
+Memória RAM (Random Access Memory) é uma memória volátil, ou seja, sempre que o computador é desligado ela perderá todos os dados armazenados. Ela é responsável por armazenar os dados dos programas que estão sendo executados no momento.
+Memória ROM (Read-Only Memory) é uma memória onde só é possível a leitura da informações, não é possível para nossos programas armazenar dados nela. Elas são principalmente usadas para armazenar dados que não devem ser sobrescritos, como por exemplo o programa responsável por controlar peças de hardware, como a placa mãe, mouse e teclado.
+HDs (Hard Drive) tem como principal função armazenar grandes quantidades de dados. É no HD que se armazena fotos, videos, documentos e jogos. Hoje é considerado lento pois utiliza uma agulha mecânica para acessar os dados.
+SSDs possuem a mesma função de um HD, porém utilizam uma tecnologia mais nova e não possuem partes mecânicas para acessar os dados, por essa razão são mais rápidos.
+Além dos dispositivos de memórias também é necessário conectar dispositivos de entrada e saída na placa mãe, é através deles que poderemos interagir com o computador.
+
+Dispositivos de Entrada
+Um dispositivo de entrada é um dispositivo que fornece qualquer informação para o computador. Por exemplo:
+
+Mouse: que fornece informação quanto a movimentação do cursor.
+Teclado: que fornece informações de quais caracteres foram pressionados.
+Dispositivos de Saída
+São dispositivos para transmitir a informação do computador para o usuário.,
+
+O principal dispositivo de saída é o monitor, pois ele é responsável por informar tudo que está acontecendo no computador para o usuário.
+
+---------------------------------------------------------------------------
+
+**Arquitetura de Van Neumann**
+
+Dispositivo de entrada, fornecenm informações ao pc. Ex: mouse, teclado, microfone: insere informações ->
+
+* CPU (Unidade Central de Processamento): cérebro do computador, onde são processados os dados, onde são executadas as instruções de um programa.
+
+    - CU (Unidade de Controle): acessa, decodifica e executa as instruções de um programa
+    - ULA (Unidade Lógica e Aritmética): Onde ocorrem as operações lógicas e matemáticas; 
+        Lógicas: > < + != >= <=
+        Matemáticas: + - * / verificar se é positivo ou negativo
+
+* Memória: dispositivo que armazena dados e programas. Ex: HD, CD, Pen-drive, CD
+
+Gera e transforma informações para o -> Dispositivo de saída, mostra informações do pc. Ex: monitor, impressora, auto-falante.
+
+**Placa mãe**
+
+Componente que interliga os demais componentes do pc.
+- Memória RAM(random Acess Memory): volátil(desliga, apaga tudo), armazena informações a serem processadas
+- Memória ROM(Read-Only Memory): só acessa informações contidas nela. Ex: ROm da placa mãe há informações apenas da placa mãe e seu funcionamento
+- Hd's(Hard Disc): armazena muitos dados. Possui uma agulha mecânica para armazenar e ler dados
+- SSD's(Solid-State Drive): armazena muitos dados. Utiliza flash
+- Processador: 
