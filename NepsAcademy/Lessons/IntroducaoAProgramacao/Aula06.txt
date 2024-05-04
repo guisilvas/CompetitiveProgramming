@@ -1,0 +1,35 @@
+Nessa aula iremos aprender conceitos básicos sobre o compilador, ela será divida em:
+
+O que é?
+Fases da compilação
+Casos de erro
+O que é um compilador?
+
+Compilador, como o próprio nome já diz, é o programa que sintetiza um código escrito em uma linguagem de programação para uma linguagem de máquina. Isto é, após finalizar o código, caso ele esteja correto de acordo com as regras da linguagem de programação, o compilador transforma o código em um programa, um arquivo executável.
+
+PS: um compilador também pode ser um programa que traduz um código de uma linguagem de programação para outra 😉.
+
+Fases da compilação
+
+Para verificar se o código está correto, o processo de compilação geralmente é divido em três partes:
+
+Análise léxica: o compilador verifica se o código utiliza os símbolos da linguagem.
+Ex: na frase "Eu joguei bola" todas as palavras estão em português, então a frase está correta lexicograficamente.
+Análise sintática: o compilador verifica se o código foi escrito corretamente.
+Análise semântica: o compilador verifica se o código tem significado lógico.
+Ex: na frase "joguei Eu bola", todas as palavras estão em português e escritas corretamente, porém a sentença não faz sentido nenhum. Dessa forma, apesar de ela estar correta quanto a lexicografia e a sintática, não está correta semânticamente.
+Casos de erro
+
+Se em alguma das fases da compilação seja encontrado algum erro no código, uma das principais tarefas do compilador é retornar um relatório de erros para o programador que o auxilie a corrigi-los rapidamente.
+
+Nessa aula você aprendeu um resumo de como o compilador funciona, as fases da compilação e como ele é importante para a correção de erros. É importante ressaltar que um compilador real é muito mais complicado, mas uma noção geral de como ele trabalha já auxilia muito o progamador.
+
+---------------------------------------------------------------------------
+
+O compilador traduz um código em linguagem de programação para linguagem de máquina ou outra linguagem de programação gerando um executável.
+
+Fases: - Análise léxica: se utiliza os símbolos da linguagem
+       - Análise sintática: se as frases estão corretas
+       - Análise semântica: se as frases tem significado
+
+Retorna um relatório de erros.

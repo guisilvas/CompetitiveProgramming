@@ -1,0 +1,64 @@
+Nesta aula vamos aprender um pouco sobre linguagens de programação, abordando temas como:
+
+Conceito;
+Importância;
+Grau de abstração;
+O que é uma linguagem de programação?
+
+Uma linguagem de programação é um método de se comunicar com o computador, de "dizer" para ele exatamente o que você quer que ele faça.
+
+Ao dominar uma linguagem de programação você consegue criar programas.
+Um programa pode ser visto como um passo a passo, um "manual" que diz para o computador o que ele deve fazer a cada momento.
+
+Assim como uma linguagem comum, uma linguagem de programação contém regras de sintática e de semântica, isto é, regras para que seu código seja escrito corretamente e faça sentido para o computador.
+
+Alguns exemplos de linguagem de programação são:
+
+C
+C++
+C#
+Java
+Python
+Javascript
+Lua
+entre outros...
+A linguagem de programação que você estudará nesse curso será a linguagem C. 😄
+
+Antes da invenção das linguagens de programação já existia programação, mas o problema é que o programador tinha que saber todos os detalhes do hardware com o qual ele trabalharia para que o programa funcionasse. Ou seja, o tempo e a dificuldade para se programar antigamente era muito, muito maiores.
+
+A criação das linguagens de programação permitiu, entre outras coisas:
+
+Facilidade no aprendizado;
+Maior produtividade;
+Criar programas mais complexos;
+Maior grau de abstração para o programador;
+O que é abstração?
+
+A abstração de uma linguagem de programação pode ser entedida como o quão fácil é aprender ela,dessa forma, existem dois tipos
+de abstração:
+
+baixo nível: linguagem de máquina (linguagem de difícil compreensão, na qual o programdor precisa saber os detalhes do hardware).
+
+alto nível: linguagem natural (linguagem de fácil compreensão, parecida com a que usamos no dia a dia).
+
+Por exemplo, compare os dois trechos de código, respectivamente, em Assembly e Python:
+
+
+Figura 1
+
+Como você pode perceber, a escrita em Python se assemelha muito mais com a linguagem que usamos diariamente.
+
+A este ponto você deve estar pensando: porque as pessoas usam linguagem de máquina então?
+
+A questão é que quanto mais a linguagem de programação se assemelha a nossa, mais tempo o computador demora para traduzir para a linguagem de máquina, isto é, uma linguagem que ele entenda.
+
+---------------------------------------------------------------------------
+
+Linguagem de programação é uma linguagem de comunicação com o computador.
+Há regras sintáticas e semânticas.
+
+Já havia programação antes das linguagens mas a comunicação era direta com o software.
+
+A linguagem de programação trouxe a abstração que facilitou e dinamizou a programação.
+
+-Abstração: baixo nível(próximo à linguagem de máquina), alto nível(próximo à linguagem humana).

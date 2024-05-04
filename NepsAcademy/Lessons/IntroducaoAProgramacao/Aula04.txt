@@ -48,5 +48,20 @@ Confiabilidade: durante essa gestão, ocorrem apenas alguns erros.
 Facilidade de manutenção: qualquer atualização e manutenção pode ser feita facilmente.
 Pequena escala: o sistema operacional tem que ocupar pouco espaço na memória.
 
----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------
 
+Sistema Operacional: é uma camada de software, conjunto de softwares que coordena o acesso do hardware pelas aplicações. Faz a ligação dos softwares ao hardware.
+
+COMUNICA O SOFTWARE COM O HARDWARE
+
+Funções: administrar os recursos de hardware e auxiliar a execução de programas do usuário.
+
+Muitiprogramação: coordenação de múltiplos programas em execução. Antigamente executava-se apenas um programa(monoprogramação).
+
+Gerenciamento de Recursos: Compartilha tempo(uso do mesmo processador) e memória(uso do espaço de memória) para que diversos programas trabalhem junto usando o mesmo núcleo
+
+-Concorrência: disputa de programas por memória e processador
+-Eficiência: gerenciar bem o processamento para executar tudo sem tempo ocioso
+-Confiabilidade: poucos erros
+-Facilidade de manutenção: fácil atualização
+-Pequena dimensão: ocupar pouca memória interna

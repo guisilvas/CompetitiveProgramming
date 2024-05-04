@@ -74,8 +74,8 @@ Gera e transforma informações para o -> Dispositivo de saída, mostra informa�
 **Placa mãe**
 
 Componente que interliga os demais componentes do pc.
-- Memória RAM(random Acess Memory): volátil(desliga, apaga tudo), armazena informações a serem processadas
-- Memória ROM(Read-Only Memory): só acessa informações contidas nela. Ex: ROm da placa mãe há informações apenas da placa mãe e seu funcionamento
+- Memória RAM(Random Acess Memory): volátil(quando desliga, apaga tudo), armazena informações a serem processadas
+- Memória ROM(Read-Only Memory): só acessa informações contidas nela. Ex: ROM da placa mãe há informações apenas da placa mãe e seu funcionamento
 - Hd's(Hard Disc): armazena muitos dados. Possui uma agulha mecânica para armazenar e ler dados
 - SSD's(Solid-State Drive): armazena muitos dados. Utiliza flash
-- Processador: 
+- Processador: o cérebro do computador, organiza e realiza as instruções
