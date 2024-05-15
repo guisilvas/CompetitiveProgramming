@@ -2,19 +2,24 @@
 #include <stdlib.h>
 
 int main(){
-    int n, anton=0;
-    scanf("%d",&n);
+    int n, anton=0, danik=0;
+    scanf("%d\n",&n);
+    char games[n];
 
     for(int i=0; i<n; i++){
         char win;
         scanf("%c",&win);
-        if(win=="A"){
+        games[i]=win;
+        if(games[i]=='A'){
             anton++;
+        } else {
+            danik++;
         }
     }
-    if(anton>(n/2)){
+
+    if(anton>danik){
         printf("Anton");
-    }else if(anton<(n/2)){
+    }else if(anton<danik){
         printf("Danik");
     }else{
         printf("Friendship");
